@@ -11,4 +11,3 @@ python:
   install:
     - method: pip
       path: .
-© 2022 GitHub, Inc.
